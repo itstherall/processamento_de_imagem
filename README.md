@@ -46,7 +46,7 @@ Das funções implementadas nem todas estão em suas versões mais simples. Isto
 
 ## DESENVOLVIMENTO:
 
-Este projeto foi desenvolvido por Nathalia Bezerra e Thereza Angélica 
+Este projeto foi desenvolvido por Nathalia Bezerra e Thereza Angélica...
 
 
 ========================================================================================
